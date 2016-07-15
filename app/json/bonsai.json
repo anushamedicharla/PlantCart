@@ -7,7 +7,7 @@
 		"price": 17.25,
 		"images": [
 			{
-				"name": "Miniature_Boxwood_1.jpg"
+				"name": "bonsai/Miniature_Boxwood_1.jpg"
 			}
 		]
 	},
@@ -19,10 +19,10 @@
 		"price": 25.65,
 		"images": [
 			{
-				"name": "Miniature_Olive_Bonsai_1.jpg"
+				"name": "bonsai/Miniature_Olive_Bonsai_1.jpg"
 			},
 			{
-				"name": "Miniature_Olive_Bonsai_2.jpg"
+				"name": "bonsai/Miniature_Olive_Bonsai_2.jpg"
 			}
 		]
 	},
@@ -34,7 +34,7 @@
 		"price": 35.99,
 		"images": [
 			{
-				"name": "Chinese_elm_1.jpg"
+				"name": "bonsai/Chinese_elm_1.jpg"
 			}
 		],
 		"soldOut":true
@@ -47,13 +47,13 @@
 		"price": 39.89,
 		"images": [
 			{
-				"name": "Rock_Juniper_1.jpg"
+				"name": "bonsai/Rock_Juniper_1.jpg"
 			},
 			{
-				"name": "Rock_Juniper_2.jpg"
+				"name": "bonsai/Rock_Juniper_2.jpg"
 			},
 			{
-				"name": "Rock_Juniper_3.jpg"
+				"name": "bonsai/Rock_Juniper_3.jpg"
 			}
 		]
 	}

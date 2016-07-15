@@ -3,7 +3,7 @@
 		"id" : 1,
 		"name":"Succulent Sake Favor",
 		"description":"Decorate your next event with a nice little Rosette Succulents favor. Paired with a decorative sake cup, this favor blends the two in a perfect take home arrangement. Sake cup measures 1.75 H x 1.75 D. Add a wooden stick with a flag to create an instant personalized favor for your wedding or event.",
-		"type": "succulent",
+		"type": "succulents",
 		"price": 4.25,
 		"images": [
 			{
@@ -18,7 +18,7 @@
 		"id" : 2,
 		"name":"Succulent Rosette - Echeveria Perle",
 		"description":"This succulent features bold powerful foliage. The sweeping wide leaves attract attention while the purple tones give a soft subtle feel. Succulent arrives in a 4 inch growers pot ready for potting.",
-		"type": "succulent",
+		"type": "succulents",
 		"price": 5.65,
 		"images": [
 			{
@@ -34,7 +34,7 @@
 		"id" : 3,
 		"name":"Zebra Cactus (Haworthia fasciata)",
 		"description":"Small and slow growing, Haworthia fasciata are commonly known as Zebra Cactus due to the tubercles that grow on the back of its leaves in a stripey pattern. Closely resembles its cousin, Haworthia attenuata, Haworthia fasciata is smoother on the inside of its leaves. Arrives in a 4 inch growers pot ready for potting.",		
-		"type": "succulent",
+		"type": "succulents",
 		"price": 3.99,
 		"images": [
 			{
@@ -49,7 +49,7 @@
 		"id" : 4,
 		"name":"Succulent Rosette - Imbricata",
 		"description":"One of our bolder varieties of the Echeveria, this succulent is most notable for its bright green color. It makes a large impact in a terrarium or centered in an arrangement. Succulent arrives in a 4 inch growers pot ready for potting.",
-		"type": "succulent",
+		"type": "succulents",
 		"price": 5.99,
 		"images": [
 			{
@@ -64,7 +64,7 @@
 		"id" : 5,
 		"name":"Succulent - Sedum Ogon",
 		"description":"Another one of our favorite ground base cover succulents. The foliage resembles little round petals which makes them perfect for complimenting rosettes. The color is a mixture of yellows and greens which makes it ideal for blending multiple varieties of succulents. Succulent arrives in a 4 inch growers pot ready for potting.",
-		"type": "succulent",
+		"type": "succulents",
 		"price": 6.99,
 		"images": [
 			{

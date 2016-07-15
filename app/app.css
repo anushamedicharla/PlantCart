@@ -1,0 +1,103 @@
+/* app css stylesheet */
+
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}
+
+.market_single{
+  background-color: #FFE4C4;
+  height: 100%;
+}
+
+.templates{
+  text-align: center;
+  background-color: #d3d3d3;
+  padding-bottom: 15px;
+ }
+
+.templates img{
+  width: 70%;
+}
+
+.templates a{
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+.templates col-md-4{
+  margin-bottom: 20px;
+}
+
+.templates .temp_single{
+  padding-top: 15px;
+}
+
+.btn-block{
+  width: 70%;
+}
+
+.templates_details{
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+.templates_details h3{
+  text-decoration: underline;
+  font-family: Galada;
+}
+
+.templates_details h4>span{
+  background-color: #FFE4C4;
+}
+
+.img-full-wid{
+  width: 100%;
+}
+
+.img-bor{
+  border: 3px solid #F4A460;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.img-bor2{
+  border: 3px solid #FFE4C4;
+  margin-left: 5px;
+}
+
+.jumbotron{
+    height:500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron h1{
+  padding-top: 100px;
+  text-align: center;
+  color: #000000;
+}

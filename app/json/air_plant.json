@@ -1,0 +1,59 @@
+[
+	{
+		"id" : 1,
+		"name":"Fishbowl Air Plant",
+		"description":"This basic air plant terrarium features a fishbowl glass vase with natural river stones, deer moss, and an air plant. Make a perfect desk arrangement as a gift or for a simple home decoration. Kit includes everything to create a simple indoor garden.",
+		"type": "airPlant",
+		"price": 17.25,
+		"images": [
+			{
+				"name": "Fishbowl_Air_Plant_1.jpg"
+			}
+		]
+	},
+	{	
+		"id" : 2,
+		"name":"Bulb Air Plant",
+		"description":"This air plant is featured in our larger hanging bulb vase. Terrarium features white natural gravel with deer moss and one of our larger more popular air plants, the Tillandsia Stricta. The Tillandsia Stricta is known for it's wide foliage and bright green foliage. The combination creates a peaceful yet bold balance. Entire kit includes glass terrarium, Tillandsia Stricta air plant, white natural gravel, deer moss, and burlap wire.",
+		"type": "airPlant",
+		"price": 40.65,
+		"images": [
+			{
+				"name": "Bulb_Air_Plant_1.jpg"
+			},
+			{
+				"name": "Bulb_Air_Plant_2.jpg"
+			}
+		]
+	},
+	{
+		"id" : 3,
+		"name":"Apothecary Jar Air Plant",
+		"description":"One of our largest air plant terrarium kits, this terrarium features a large apothecary glass jar with natural river stones. The kit includes three air plants: TIllandsia Filifolia, TIllandsia Setacea, and TIllandsia Stricta. The combination of wispy foliage and the strong wide foliage of the Tillandsia Stricta give the terrarium a full appearance. Kit also includes deer moss for a soft backdrop.",
+		"type": "airPlant",
+		"price": 52.99,
+		"images": [
+			{
+				"name": "Apothecary_Jar_Air_Plant_1.jpg"
+			},
+			{
+				"name": "Apothecary_Jar_Air_Plant_2.jpg"
+			}
+		]
+	},
+	{
+		"id" : 4,
+		"name":"Tall Desk Air Plant",
+		"description":"This air plant terrarium features a flat base for easy placement on a desk or table. Terrarium kit includes 3 air plants: Tillandsia Kolbii, Tillandsia Setacea, and Tillandsia Stricta. The combination of all three air plants creates an assortment of textures and foliage. Entire kit includes glass terrarium, 3 air plants, deer moss, and river rocks. Substitutions may apply.",
+		"type": "airPlant",
+		"price": 39.89,
+		"images": [
+			{
+				"name": "Tall_Desk_Air_Plant_1.jpg"
+			},
+			{
+				"name": "Tall_Desk_Air_Plant_2.jpg"
+			}
+		]
+	}
+]

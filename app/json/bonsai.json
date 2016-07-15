@@ -1,0 +1,60 @@
+[
+	{
+		"id" : 1,
+		"name":"Miniature Boxwood",
+		"description":"Since it needs minimal sunlight, the boxwood bonsai tree is perfect for an indoor environment such as your home or office. Bonsai tree measures between 8 inch to 10 inch tall potted, and arrives in a 6 inch blue pot.",
+		"type": "bonsai",
+		"price": 17.25,
+		"images": [
+			{
+				"name": "Miniature_Boxwood_1.jpg"
+			}
+		]
+	},
+	{	
+		"id" : 2,
+		"name":"Miniature Little Ollie Olive Bonsai",
+		"description":"This miniature version of our Little Ollie Olive measures between 10 inch and 12 inch tall potted and arrives in a contemporary 6 inch ceramic pot. Pot may vary depending on availability. Care information included. Bonsai tree shape may vary.",
+		"type": "bonsai",
+		"price": 25.65,
+		"images": [
+			{
+				"name": "Miniature_Olive_Bonsai_1.jpg"
+			},
+			{
+				"name": "Miniature_Olive_Bonsai_2.jpg"
+			}
+		]
+	},
+	{
+		"id" : 3,
+		"name":"Chinese Elm",
+		"description":"The Chinese Elm Bonsai tree is a very hardy tree that can accommodate indoor and outdoor environments with sufficient natural lighting. Chinese Elm bonsai tree, aged 6-8 years old, currently arrives in a 8 inch brown rectangular pot and measures 12 inch - 15 inch tall potted. Includes decorative stone.",
+		"type": "bonsai",
+		"price": 35.99,
+		"images": [
+			{
+				"name": "Chinese_elm_1.jpg"
+			}
+		],
+		"soldOut":true
+	},
+	{
+		"id" : 4,
+		"name":"Rock Juniper",
+		"description":"Juniper bonsai, aged 7-9 years old, measures between 12 inch to 15 inch in height potted. Arrives in a 8 inch ceramic pot. Care information included. Exclusively from Eastern Leaf. Bonsai tree shape may vary.",
+		"type": "bonsai",
+		"price": 39.89,
+		"images": [
+			{
+				"name": "Rock_Juniper_1.jpg"
+			},
+			{
+				"name": "Rock_Juniper_2.jpg"
+			},
+			{
+				"name": "Rock_Juniper_3.jpg"
+			}
+		]
+	}
+]

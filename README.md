@@ -5,3 +5,4 @@ Environment used :
 --> Custom routing using Angular-Route.
 --> Created Controllers and Views for different page templates.
 --> Used $http service to fetch all the data from .json files and $filter service to filer data from the files.
+ 

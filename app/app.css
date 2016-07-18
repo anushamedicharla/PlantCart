@@ -46,6 +46,8 @@
 
 .templates img{
   width: 70%;
+  height: 300px;
+  width: 300px;
 }
 
 .templates a{
@@ -88,6 +90,7 @@
   border: 3px solid #F4A460;
   margin-top: 5px;
   margin-left: 5px;
+  float: left;
 }
 .img-bor2{
   border: 3px solid #FFE4C4;
@@ -104,4 +107,78 @@
   padding-top: 150px;
   text-align: center;
   color: #000000;
+}
+
+
+@media (min-width: 768px) and (max-width: 980px){
+
+  .templates .temp_single {
+    width: 50%;
+    float: left;
+  }
+
+  .img-full-wid{
+    width: 60%;
+  }
+
+  .img-bor{
+    width: 20%;
+  }
+
+  .col-md-7{
+    width: 80%;
+    padding-top: 20px;
+  }
+
+}
+
+@media (max-width: 768px){
+  .row{
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .templates a{
+    width: 40%;
+  }
+
+  .img-bor2{
+    width: 70%;
+  }
+
+  .img-bor{
+    width: 20%;
+  }
+
+  .col-md-7{
+    width: 80%;
+    padding-top: 20px;
+  }
+}
+
+@media (max-width: 500px){
+  .templates img{
+    height: 200px;
+    width: 200px;
+  }
+
+  .img-bor2{
+    width: 200px;
+    height: 200px;
+  }
+
+  .templates_details{
+    padding-left: 20px;
+  }
+
+  .img-bor{
+    width: 50px;
+    height: 50px;
+  }
+
+  .col-md-7{
+    width: 80%;
+    padding-top: 20px;
+  }
+
 }
